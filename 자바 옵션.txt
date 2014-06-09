@@ -1,0 +1,1 @@
+VM argument: -Djava.library.path="C:\glpk\w64"
